@@ -49,7 +49,7 @@ I eliminate manual configuration ("click-ops") by deploying automated, reproduci
 Containerized FastAPI inference service for a ViT-B16 classifier deployed on Amazon EKS. Fully provisioned via Terraform with native S3 state locking, private VPC subnets with S3 Gateway Endpoints, and least-privilege model weight retrieval from S3 enforced via IRSA boundaries (zero static credentials).
 
 #### ☁️ [Production-Grade Serverless Architecture](https://github.com/alinawrozie/my_site)
-Statically hosted, high-availability platform on AWS (S3, CloudFront, Route 53, Lambda, API Gateway) provisioned 100% via Terraform and automated with GitHub Actions CI/CD — zero manual console clicks.
+Statically hosted, high-availability platform on AWS (S3, CloudFront, Route 53, Lambda, API Gateway) provisioned 100% via Terraform and automated with GitHub Actions CI/CD - zero manual console clicks.
 
 #### 🔬 [Medical Deep Learning Vision Pipeline](https://github.com/alinawrozie/skin-cancer-classification)
 End-to-end medical image classification pipeline evaluating Vision Transformers (ViT-B16) and CNN architectures with Stratified K-Fold cross-validation, achieving an ROC-AUC of 0.844.
@@ -63,7 +63,7 @@ Ensemble and recurrent neural network (LSTM) architectures capturing complex tem
 
 I am actively seeking **Machine Learning Engineer**, **Cloud / DevOps Engineer**, or **MLOps / Platform Engineer** roles across the UK. 
 
-I'm excited to join engineering teams where I can bridge the gap between AI experimentation and reliable production infrastructure—taking models out of notebooks and deploying them into secure, containerized, and automated cloud platforms.
+I'm excited to join engineering teams where I can bridge the gap between AI experimentation and reliable production infrastructure-taking models out of notebooks and deploying them into secure, containerized, and automated cloud platforms.
 
 ---
 
