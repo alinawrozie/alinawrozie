@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Abdul Ali Nawrozie
 
-🎓 **MSc in Artificial Intelligence** — University of Essex  
-☁️ **AWS Certified Solutions Architect – Associate**  
+🎓 **MSc in Artificial Intelligence** - University of Essex  
+☁️ **AWS Certified Solutions Architect - Associate**  
 🧠 **Cloud & AI Engineer** | Kubernetes & Containerization | MLOps | Deep Learning  
 🌍 **Based in London, UK** | Full UK Right to Work  
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 About Me
 
-I look at system architecture through a dual lens: the mathematical complexity of machine learning models and the structural demands of production-grade cloud environments. My philosophy is simple: **Infrastructure should be code, not archaeology.**
+I look at system architecture through a dual lens: the mathematical complexity of machine learning models and the structural demands of production-grade cloud environments. My philosophy is simple: **Infrastructure should be code, not guesswork.**
 
-I eliminate manual configuration ("click-ops") by deploying automated, reproducible infrastructure using **Terraform (IaC)**, **GitOps CI/CD pipelines**, and **Kubernetes**. Whether I am training Vision Transformers, packaging models into containerized inference microservices, or building zero-console-click AWS architectures, I build resilient systems designed to run in production.
+I eliminate manual configuration ("click-ops") by deploying automated, reproducible infrastructure using **Terraform (IaC)**, **GitOps CI/CD pipelines**, and **Kubernetes**. Whether I am training Models, packaging models into containerized inference microservices, or building zero-console-click AWS architectures, I build resilient systems designed to run in production.
 
 ---
 
