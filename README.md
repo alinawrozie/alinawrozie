@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Abdul Ali Nawrozie
 
-🎓 **MSc in Artificial Intelligence** - University of Essex  
+🎓 **MSc in Artificial Intelligence (Distinction)** - University of Essex  
 ☁️ **AWS Certified Solutions Architect - Associate**  
 🧠 **Cloud & AI Engineer** | Kubernetes & Containerization | MLOps | Deep Learning  
 🌍 **Based in London, UK** | Full UK Right to Work  
