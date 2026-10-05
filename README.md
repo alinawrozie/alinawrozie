@@ -39,20 +39,20 @@ I eliminate manual configuration ("click-ops") by deploying automated, reproduci
 * **Cloud & DevOps:** AWS (EKS, S3, CloudFront, Route 53, API Gateway, Lambda, IAM, ECR), Terraform (IaC), GitOps, GitHub Actions CI/CD, Linux / Bash
 * **Containers & Orchestration:** Docker, Kubernetes (Amazon EKS), Helm, IRSA (IAM Roles for Service Accounts)
 * **Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-learn, Computer Vision (ViT, CNNs), Time-Series (LSTM), MLOps, Agentic AI
-* **Languages & Backend:** Python (Advanced), SQL, PHP / Laravel, C/C++, RESTful API Design
+* **Languages & Backend:** Python (Advanced), SQL, PHP, C, RESTful API Design
 
 ---
 
 ### 📂 Featured Projects
 
 #### ☸️ [Amazon EKS ViT Inference Service](https://github.com/alinawrozie/eks-vit-inference)
-Containerized FastAPI inference service for a ViT-B16 classifier deployed on Amazon EKS. Fully provisioned via Terraform with native S3 state locking, private VPC subnets with S3 Gateway Endpoints, and least-privilege model weight retrieval from S3 enforced via IRSA boundaries (zero static credentials).
+Containerized FastAPI inference service for a ViT-B16 classifier deployed on Amazon EKS. Fully provisioned with Terraform, native S3 state locking, private VPC subnets with S3 Gateway Endpoints, and least-privilege model-weight retrieval from S3 enforced via IRSA boundaries (zero static credentials).
 
 #### ☁️ [Production-Grade Serverless Architecture](https://github.com/alinawrozie/my_site)
 Statically hosted, high-availability platform on AWS (S3, CloudFront, Route 53, Lambda, API Gateway) provisioned 100% via Terraform and automated with GitHub Actions CI/CD - zero manual console clicks.
 
-#### 🔬 [Medical Deep Learning Vision Pipeline](https://github.com/alinawrozie/skin-cancer-classification)
-End-to-end medical image classification pipeline evaluating Vision Transformers (ViT-B16) and CNN architectures with Stratified K-Fold cross-validation, achieving an ROC-AUC of 0.844.
+#### 🔬 [Medical Deep Learning Pipeline](https://github.com/alinawrozie/skin-cancer-classification)
+End-to-end medical image classification pipeline evaluating Vision Transformers (ViT-B16) and CNN architectures with stratified K-fold cross-validation, achieving an ROC-AUC of 0.844.
 
 #### 📈 [Time-Series Sales Ensemble Predictor](https://github.com/alinawrozie)
 Ensemble and recurrent neural network (LSTM) architectures capturing complex temporal dependencies across 1,115 retail store timelines, achieving a 0.103 RMSPE on unseen evaluation data.
