@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Abdul Ali Nawrozie
+# Hi 👋, I'm Abdul Ali
 
 🎓 **MSc in Artificial Intelligence (Distinction)** - University of Essex  
 ☁️ **AWS Certified Solutions Architect - Associate**  
