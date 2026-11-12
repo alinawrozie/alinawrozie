@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 🎓 **MSc in Artificial Intelligence (Distinction)** - University of Essex  
 ☁️ **AWS Certified Solutions Architect - Associate**  
-🧠 **Cloud & AI Engineer** | Kubernetes & Containerization | MLOps | Deep Learning  
-🌍 **Based in London, UK** | Full UK Right to Work  
+🧠 **Cloud & AI Engineer** | Kubernetes & Containerization | DevOps | AI  
+🌍 **Based in London, UK** | No Sponsorship Needed  
 
 ---
 
